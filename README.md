@@ -112,13 +112,7 @@ sweet-shop-management-system/
 
 ## 🧑‍💻 Installation & Setup
 
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/Paras-Baraiya/sweet-shop-management-system.git
-```
-
-### 2️⃣ Backend Setup
+### 2️1️⃣ Backend Setup
 
 ```bash
 cd backend
@@ -136,7 +130,7 @@ JWT_SECRET=your_secret_key
 
 ---
 
-### 3️⃣ Frontend Setup
+### 2️⃣ Frontend Setup
 
 ```bash
 cd frontend
